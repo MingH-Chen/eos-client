@@ -3,6 +3,7 @@ EOS Java Client
 本项目参考自 bigbearbro/eos-client
 
 *修改了些bug
+
 *添加了新的功能
 
 示例如下
