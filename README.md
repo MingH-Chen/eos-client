@@ -1,6 +1,6 @@
 EOS Java Client
 
-本项目参考自 bigbearbro/eos-client
+本项目参考自 bigbearbro/eos-client;eos4j
 
 *修改了些bug
 
